@@ -1,0 +1,1 @@
+java -jar EX01-SimpleSpringBootApplication-0.0.1-SNAPSHOT.jar
